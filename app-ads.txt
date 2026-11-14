@@ -1,0 +1,11 @@
+# app-ads.txt - THgames (Veggie Defense, com.thgames.veggiedefense)
+# Must be served at the root of the developer website listed on Google Play.
+
+# Google AdMob
+google.com, pub-4944350105530656, DIRECT, f08c47fec0942fa0
+
+# ironSource / LevelPlay: paste the lines from the LevelPlay dashboard
+# (Account > API > Publisher ID, and the app-ads.txt list) below this line.
+
+# Unity Ads: paste the lines from Unity Dashboard > Monetization >
+# Setup > Organization Settings > app-ads.txt below this line.
